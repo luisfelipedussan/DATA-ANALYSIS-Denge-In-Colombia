@@ -1,5 +1,5 @@
 # Text Analysis for Patient Medical History
-
+by Luis Felipe Dussán
 ## Project Overview
 
 This project aims to apply **Natural Language Processing (NLP)** techniques to analyze **patient medical histories** in the form of unstructured text. The goal is to extract useful insights and structured information from medical records to assist healthcare professionals in making data-driven decisions.
