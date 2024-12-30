@@ -47,7 +47,6 @@ Correlation Findings: Insights into how temperature variations impact dengue inc
 Model Performance: Evaluation metrics for the predictive models developed.
 ## Technologies Used
 
-Tools and Technologies
 
 **Python**: For data processing and analysis.
 
