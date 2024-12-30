@@ -14,7 +14,7 @@ Temperature Data: Historical temperature records for each municipality.
 
 Dengue Cases Data: Reported cases of dengue in each municipality over a specified time period.
 
-#**Objectives**
+# **Objectives**
 Identify Trends: Analyze trends in dengue cases over time and across different municipalities.
 
 Correlation Analysis: Determine the correlation between temperature variations and the number of dengue cases.
@@ -23,7 +23,7 @@ Predictive Modeling: Develop predictive models to forecast future dengue outbrea
 
 Visualizations: Create visual representations to illustrate findings and insights.
 
-#**Data Preparation**
+# **Data Preparation**
 Data Cleaning: Handling missing values, correcting inconsistencies, and ensuring data quality.
 
 Data Integration: Merging datasets from multiple sources to create a comprehensive dataset for analysis.
