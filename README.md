@@ -1,39 +1,62 @@
-# Text Analysis for Patient Medical History
+# Data Analysis Denge in Colombia
 by Luis Felipe Dussán
+
 ## Project Overview
 
-This project aims to apply **Natural Language Processing (NLP)** techniques to analyze **patient medical histories** in the form of unstructured text. The goal is to extract useful insights and structured information from medical records to assist healthcare professionals in making data-driven decisions.
+Data Analysis Project on Dengue Cases in Colombian Municipalities
+Project Overview
+This project aims to analyze the relationship between environmental conditions, such as temperature, and the incidence of dengue cases in various municipalities in Colombia. By leveraging this data, we aim to uncover insights that can help in predicting and controlling the spread of dengue.
 
-This project uses **machine learning** and **text analysis** methods to process patient records, identify key information such as diagnoses, treatments, and medical conditions, and categorize data for further analysis.
+#**Data Sources**
+Municipality Data: Information on various municipalities in Colombia, including demographic and geographical data.
 
-## Features
+Temperature Data: Historical temperature records for each municipality.
 
-- **Text Preprocessing**: Tokenization, lemmatization, and stop-word removal.
-- **Named Entity Recognition (NER)**: Identification of medical terms, diseases, medications, and treatments.
-- **Classification**: Categorizing medical history into different classes, such as diagnosis, medication, symptoms, etc.
-- **Sentiment Analysis**: Identifying the sentiment in the patient’s description of their health (positive, neutral, or negative).
-- **Data Extraction**: Extracting relevant information from raw text for structured analysis.
+Dengue Cases Data: Reported cases of dengue in each municipality over a specified time period.
 
-## Datasets
+#**Objectives**
+Identify Trends: Analyze trends in dengue cases over time and across different municipalities.
 
-- **Dataset**: Patient Medical Histories (simulated or real-world anonymized medical datasets)
-- **Source**: [Example Dataset or Kaggle (if applicable)]
+Correlation Analysis: Determine the correlation between temperature variations and the number of dengue cases.
 
-Example data includes medical records in the following format:
-- Patient Name: John Doe
-- Age: 45
-- Diagnosis: Hypertension, Asthma
-- Treatment: Beta-blockers, Inhaler
+Predictive Modeling: Develop predictive models to forecast future dengue outbreaks based on environmental conditions.
 
+Visualizations: Create visual representations to illustrate findings and insights.
+
+#**Data Preparation**
+Data Cleaning: Handling missing values, correcting inconsistencies, and ensuring data quality.
+
+Data Integration: Merging datasets from multiple sources to create a comprehensive dataset for analysis.
+
+Feature Engineering: Creating new features that may help in understanding and predicting dengue cases.
+
+Analysis and Insights
+Exploratory Data Analysis (EDA): Initial analysis to understand the structure and characteristics of the data.
+
+Trend Analysis: Examination of temporal trends in dengue cases.
+
+Correlation Analysis: Statistical analysis to determine the relationship between temperature and dengue cases.
+
+Predictive Modeling: Building and evaluating models to predict future dengue outbreaks.
+
+Results
+Trends Identified: Key trends in dengue cases across different municipalities.
+
+Correlation Findings: Insights into how temperature variations impact dengue incidence.
+
+Model Performance: Evaluation metrics for the predictive models developed.
 ## Technologies Used
 
-- **Python**: Main programming language used for text processing.
-- **Natural Language Toolkit (NLTK)**: For text preprocessing and tokenization.
-- **spaCy**: For Named Entity Recognition (NER) and advanced NLP tasks.
-- **Scikit-learn**: For text classification and machine learning algorithms.
-- **TensorFlow / Keras**: For deep learning-based NLP models (if applicable).
-- **Pandas / NumPy**: For data manipulation and processing.
-- **Matplotlib / Seaborn**: For visualizing analysis results.
+Tools and Technologies
+**Python**: For data processing and analysis.
+
+**Pandas**: For data manipulation and cleaning.
+
+**Matplotlib** / **Seaborn**: For data visualization.
+
+**Scikit-learn**: For predictive modeling and machine learning.
+
+**Jupyter Notebooks**: For interactive data analysis and documentation.
 
 ## Installation
 
